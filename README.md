@@ -1,4 +1,4 @@
 # ayushman-s-repository
 first repository
 <br>
-author-ayushman
+author-ayushman patel
